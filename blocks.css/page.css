@@ -32,16 +32,16 @@ html {
   font-size: 16px;
   line-height: 20px;
   margin: auto;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .header {
   display: flex;
   flex-direction: column;
   position: relative;
-  background-image: url(/images/background_header.svg);
+  background-image: url(../images/background_header.svg);
   background-size: cover;
-  height: 890px;
+  height: 800px;
   margin: 0;
 }
 
@@ -448,7 +448,6 @@ html {
 
 .about__circle_animation_blurred {
   animation: pulsate 1.3s ease-in-out infinite;
-  /* transform: scale(1.4); */
 }
 
 .footer {
