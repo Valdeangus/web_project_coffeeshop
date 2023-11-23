@@ -155,7 +155,7 @@ html {
 
 .recipes {
   background-color: #0a2750;
-  background-image: url(/images/background_recipes.svg);
+  background-image: url(../images/background_recipes.svg);
   background-size: cover;
   height: 890px;
 }
@@ -211,7 +211,7 @@ html {
 }
 
 .reservation {
-  background-image: url(/images/background_reservation.svg);
+  background-image: url(../images/background_reservation.svg);
   background-color: #d9e7ff;
   height: 890px;
   margin: 0;
@@ -315,7 +315,7 @@ html {
 }
 
 .menu {
-  background-image: url(/images/background_menu.svg);
+  background-image: url(../images/background_menu.svg);
   margin: 0;
 }
 
