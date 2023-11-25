@@ -1,0 +1,23 @@
+html {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+@font-face {
+  font-family: Noto Serif;
+  src: url(/NotoSerif-VariableFont_wdth\,wght.ttf);
+}
+
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  font-family: Inter, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  margin: auto;
+  overflow: hidden;
+}
